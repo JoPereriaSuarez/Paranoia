@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b76956b045fe4a4f8e2fc4c700a56b2, type: 3}
+  m_Name: VoiceRecord3
+  m_EditorClassIdentifier: 
+  type: 5
+  audioClip: {fileID: 8300000, guid: 30266b6e770ff2942b2ea73d7aee332c, type: 3}
+  itemName: 2011
+  description: "Diciembre \u2013 19 \u2013 2011/\r\n\xA1NO, \xA1NO, \xA1NO, por qu\xE9!!/
+    Ahora te la llevas a ella igual,/ todo esto es tu culpa/ si tan solo hubiera dejado
+    de lado al alchohol, le hubiera dedicado m\xE1s tiempo la \xFAnica persona que
+    me quer\xEDa./\r"
+  icon: {fileID: 21300000, guid: 7f12a781cffb2fd4497696b62927fc69, type: 3}
+  image: {fileID: 21300000, guid: 7f12a781cffb2fd4497696b62927fc69, type: 3}
+  amount: 1
+  maxAmount: 1

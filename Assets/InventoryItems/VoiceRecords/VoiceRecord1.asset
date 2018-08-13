@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b76956b045fe4a4f8e2fc4c700a56b2, type: 3}
+  m_Name: VoiceRecord1
+  m_EditorClassIdentifier: 
+  type: 5
+  audioClip: {fileID: 8300000, guid: 6470dcb34dee66c46845e8c5af58feb1, type: 3}
+  itemName: Diario 1997-01
+  description: "Junio \u2013 26 \u2013 1997 /\r\nEs el d\xEDa en que nos dirigimos
+    hacia el hospital con mi esposa,/ va a dar a luz a nuestra hija Elizabeth,/ estoy
+    muy nervioso no sabemos si seremos buenos padres,/ pero la amaremos y le entregaremos
+    lo mejor de cada uno para que sea /la ni\xF1a m\xE1s feliz.\r"
+  icon: {fileID: 21300000, guid: 7f12a781cffb2fd4497696b62927fc69, type: 3}
+  image: {fileID: 21300000, guid: 7f12a781cffb2fd4497696b62927fc69, type: 3}
+  amount: 1
+  maxAmount: 1
